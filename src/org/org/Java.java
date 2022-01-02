@@ -24,9 +24,7 @@ public class Java {
 		}
 	}
 
-	public void mut() {
-		System.out.println("multiple");
-
+	public void hub() {
+		System.out.println("hub");
 	}
-
 }
