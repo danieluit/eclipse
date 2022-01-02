@@ -28,5 +28,9 @@ public class Java {
 		System.out.println("multiple");
 
 	}
+	public void didvide() {
+		System.out.println("divide");
+		}}	
+	 
+	
 
-}
