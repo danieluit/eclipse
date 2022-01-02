@@ -22,4 +22,10 @@ public static void main(String[] args) {
 	System.out.println(i);
 	}
 	}
+	 
+	
+}
+public void didvide() {
+System.out.println("divide");
 }}
+
