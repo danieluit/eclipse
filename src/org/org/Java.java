@@ -24,7 +24,9 @@ public class Java {
 		}
 	}
 
-	public void sub() {
-		System.out.println("data");
+	public void mut() {
+		System.out.println("multiple");
+
 	}
+
 }
